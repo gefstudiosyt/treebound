@@ -1,11 +1,7 @@
 # Treebound (Fabric, Minecraft 1.21.1)
 By gefstudiosyt. A tree-race mod: be reincarnated as a tree and grow. Original mod, not tied to any other game or book.
 
-## Get the mod file (no coding)
-1. Make a new empty GitHub repository.
-2. Upload the `src` folder (drag the folder itself), `build.gradle`, `settings.gradle`, `gradle.properties`, `README.md`.
-3. Add file > Create new file, name `.github/workflows/build.yml`, paste in the workflow text, commit.
-4. Actions > wait for the green check > download Artifacts > treebound-mod, unzip, put the `.jar` in `mods` (needs Fabric API).
+
 
 ## Play
 Craft a **Seed of Rebirth** (shapeless): oak sapling + diamond + 2 bone meal. Right-click it to become a tree.
