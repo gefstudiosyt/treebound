@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "treebound",
+  "version": "${version}",
+  "name": "Treebound",
+  "description": "Be reincarnated as a tree. Grow from a sapling into a world tree by living in the sun, rooting yourself and staying alive.",
+  "authors": [
+    "gefstudiosyt"
+  ],
+  "contact": {
+    "homepage": "https://github.com/gefstudiosyt"
+  },
+  "license": "MIT",
+  "icon": "assets/treebound/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.treebound.Treebound"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
